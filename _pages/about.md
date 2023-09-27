@@ -9,19 +9,6 @@ redirect_from:
 ---
 
 # Jiaying Li
-<table width="88%" border="0" cellpadding="0">
-<tr valigh="top" aligh="left">
-<td><IMG SRC="./images/photo.jpg" width="150"><br></td>
-<td>
-<div>
-<b>PhD, Senior Software Engineer</b> <BR> 
-<P>Address: 8308, Building 2, No. 5, Danling Street, Haidian District, Beijing, China<BR>
-<P>Email: jiayingli@microsoft.com (official), lijiaying1989@gmail.com (personal)<BR>
-<P>Wechat: lijiayinghahaha<BR>
-</div>
-</td>
-</tr>
-</table>
 
 [Curriculum Vitae](http://lijiaying.github.io/cv/cv.pdf) [outdated, the link may be not valid for now.]
 
